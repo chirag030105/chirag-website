@@ -1,3 +1,3 @@
 # chirag-website
 This is my first Git repositotry
-Author - Chirag
+Author - Chirag Darji
